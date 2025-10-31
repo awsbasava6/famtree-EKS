@@ -1,0 +1,5 @@
+apiVersion: v2
+name: famtree-api
+version: 0.1.0
+description: Helm chart for FamTree Node backend
+

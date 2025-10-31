@@ -1,0 +1,10 @@
+replicaCount: 1
+
+image:
+  repository: corp-devops-project-repo  # fill later
+  tag: "latest"
+
+service:
+  type: ClusterIP
+  port: 5000
+
